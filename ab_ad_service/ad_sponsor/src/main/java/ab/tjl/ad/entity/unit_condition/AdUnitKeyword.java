@@ -8,7 +8,7 @@ import javax.persistence.*;
 
 /**
  * @Author:TangJiLin
- * @Description:广告推广单元关键字限制实体类
+ * @Description: 广告推广单元关键字限制实体类
  * @Date: Created in 2020/4/12 21:05
  * @Modified By:
  */

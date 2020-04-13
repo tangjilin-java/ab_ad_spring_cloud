@@ -8,7 +8,7 @@ import javax.persistence.*;
 
 /**
  * @Author:TangJiLin
- * @Description:创意与推广单元的关联实体类
+ * @Description: 创意与推广单元的关联实体类
  * @Date: Created in 2020/4/12 21:09
  * @Modified By:
  */

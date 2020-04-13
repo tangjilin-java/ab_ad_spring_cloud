@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * @Author:TangJiLin
- * @Description:配置消息转换器
+ * @Description: 配置消息转换器
  * @Date: Created in 2020/4/12 16:43
  * @Modified By:
  */

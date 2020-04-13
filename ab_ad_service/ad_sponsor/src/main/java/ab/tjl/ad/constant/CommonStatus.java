@@ -4,7 +4,7 @@ import lombok.Getter;
 
 /**
  * @Author:TangJiLin
- * @Description:公共状态枚举类常量
+ * @Description: 公共状态枚举类常量
  * @Date: Created in 2020/4/12 20:40
  * @Modified By:
  */

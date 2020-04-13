@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @Author:TangJiLin
- * @Description:广告计划持久层接口
+ * @Description: 广告计划持久层接口
  * @Date: Created in 2020/4/12 21:29
  * @Modified By:
  */

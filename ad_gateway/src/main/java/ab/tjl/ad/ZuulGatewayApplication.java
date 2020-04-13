@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 /**
  * @Author:TangJiLin
- * @Description:启动类
+ * @Description: 启动类
  * @Date: Created in 2020/4/12 15:47
  * @Modified By:
  */

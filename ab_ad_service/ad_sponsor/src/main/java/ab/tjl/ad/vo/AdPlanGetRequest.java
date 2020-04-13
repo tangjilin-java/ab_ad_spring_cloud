@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * @Author:TangJiLin
- * @Description:获取广告推广计划请求数据封装
+ * @Description: 获取广告推广计划请求数据封装
  * @Date: Created in 2020/4/13 10:23
  * @Modified By:
  */

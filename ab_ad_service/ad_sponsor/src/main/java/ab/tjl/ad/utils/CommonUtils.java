@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * @Author:TangJiLin
- * @Description:公共工具类：  1.MD5加密 2.字符串转换成时间格式 3. 4.....
+ * @Description: 公共工具类：  1.MD5加密 2.字符串转换成时间格式 3. 4.....
  * @Date: Created in 2020/4/13 10:10
  * @Modified By:
  */

@@ -13,7 +13,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
 /**
  * @Author:TangJiLin
- * @Description:统一响应数据通知
+ * @Description: 统一响应数据通知
  * @Date: Created in 2020/4/12 16:22
  * @Modified By:
  */

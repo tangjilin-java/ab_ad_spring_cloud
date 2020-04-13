@@ -4,7 +4,7 @@ import lombok.Getter;
 
 /**
  * @Author:TangJiLin
- * @Description:广告创意物料的类型枚举类常量
+ * @Description: 广告创意物料的类型枚举类常量
  * @Date: Created in 2020/4/12 21:21
  * @Modified By:
  */

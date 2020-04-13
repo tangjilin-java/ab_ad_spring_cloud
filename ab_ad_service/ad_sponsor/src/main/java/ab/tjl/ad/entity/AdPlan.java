@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * @Author:TangJiLin
- * @Description:广告推广计划实体类
+ * @Description: 广告推广计划实体类
  * @Date: Created in 2020/4/12 20:45
  * @Modified By:
  */

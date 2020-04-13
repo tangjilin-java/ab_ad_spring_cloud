@@ -7,7 +7,7 @@ import org.springframework.util.StringUtils;
 
 /**
  * @Author:TangJiLin
- * @Description:广告推广计划请求数据封装
+ * @Description: 广告推广计划请求数据封装
  * @Date: Created in 2020/4/13 10:16
  * @Modified By:
  */

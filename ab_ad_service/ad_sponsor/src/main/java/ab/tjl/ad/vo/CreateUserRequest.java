@@ -7,7 +7,7 @@ import org.springframework.util.StringUtils;
 
 /**
  * @Author:TangJiLin
- * @Description:创建用户请求数据封装
+ * @Description: 创建用户请求数据封装
  * @Date: Created in 2020/4/13 9:57
  * @Modified By:
  */

@@ -2,7 +2,7 @@ package ab.tjl.ad.constant;
 
 /**
  * @Author:TangJiLin
- * @Description:错误信息常量处理
+ * @Description: 错误信息常量处理
  * @Date: Created in 2020/4/13 10:06
  * @Modified By:
  */

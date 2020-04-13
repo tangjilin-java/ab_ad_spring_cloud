@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * @Author:TangJiLin
- * @Description:广告推广单元实体列
+ * @Description: 广告推广单元实体列
  * @Date: Created in 2020/4/12 20:57
  * @Modified By:
  */

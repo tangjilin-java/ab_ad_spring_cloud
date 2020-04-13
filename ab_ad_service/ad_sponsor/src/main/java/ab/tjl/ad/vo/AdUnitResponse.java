@@ -6,15 +6,15 @@ import lombok.NoArgsConstructor;
 
 /**
  * @Author:TangJiLin
- * @Description: 广告推广计划响应数据封装
- * @Date: Created in 2020/4/13 10:16
+ * @Description: 广告推广单元响应数据封装
+ * @Date: Created in 2020/4/13 14:51
  * @Modified By:
  */
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
-public class AdPlanResponse {
+@AllArgsConstructor
+public class AdUnitResponse {
 
     private Long id;
-    private String planName;
+    private String unitName;
 }
