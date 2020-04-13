@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="Date:,Description:广告推广单元业务层接口实现类,Modified,Author:TangJiLin" />
+      <option name="myAdditionalJavadocTags" value="Date:,Description:广告推广单元业务层接口实现类,Modified,Author:TangJiLin,Description:广告创意业务层接口实现类,Description:创意业务层接口,Description:广告推广单元业务层接口,Description:" />
     </inspection_tool>
   </profile>
 </component>
